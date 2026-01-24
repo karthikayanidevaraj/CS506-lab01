@@ -5,8 +5,9 @@ Your assignment:
 4. Sync your local main branch with upstream/main (hint: fetch + rebase)
 5. Create and switch to a new branch in your forked repo
 6. Add your name to names.md on the branch in your forked repo
-7. Commit and push your branch to your fork
-8. Open a pull request to the original repository (you will get credit for your name appearing in names.md after the PR is approved)
+7. Stage your changes on the branch
+9. Commit and push your branch to your forked repository
+10. Open a pull request to the original repository (you will get credit for your name appearing in names.md after the PR is approved)
 
 Feel free to message me on Discord or email me with any issues/questions!
 
